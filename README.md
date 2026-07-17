@@ -1,54 +1,53 @@
 # 🛡️ Web Application Vulnerability Assessment and Penetration Testing (VAPT)
 
-A comprehensive academic cybersecurity project focused on identifying, analyzing, and demonstrating security vulnerabilities in web applications using industry-standard penetration testing tools and methodologies.
+A comprehensive academic cybersecurity project focused on identifying, analyzing, and demonstrating web application vulnerabilities using industry-standard Vulnerability Assessment and Penetration Testing (VAPT) methodologies.
 
 ---
 
 # 📖 Project Overview
 
-This project demonstrates the complete Vulnerability Assessment and Penetration Testing (VAPT) process performed on web applications in an authorized academic environment.
+This project demonstrates a complete **Vulnerability Assessment and Penetration Testing (VAPT)** process performed in an authorized academic environment. The objective was to identify security weaknesses in web applications, analyze their impact, demonstrate exploitation techniques in a controlled manner, and recommend effective mitigation strategies.
 
-The assessment includes information gathering, vulnerability identification, exploitation, impact analysis, and mitigation recommendations using professional security tools.
-
-The objective is to understand how common web vulnerabilities are discovered and how they can be mitigated to improve application security.
+The project follows a structured penetration testing methodology using professional cybersecurity tools and industry best practices.
 
 ---
 
 # 🎯 Objectives
 
 - Perform Web Application Vulnerability Assessment
-- Perform Penetration Testing in an authorized environment
-- Identify security vulnerabilities
-- Analyze the security impact of discovered vulnerabilities
-- Recommend mitigation techniques
-- Gain practical experience with professional VAPT tools
+- Conduct Authorized Penetration Testing
+- Identify Security Vulnerabilities
+- Analyze Security Risks
+- Demonstrate Vulnerability Exploitation
+- Recommend Security Mitigations
+- Gain Practical Experience with Industry Tools
 
 ---
 
 # 🏗️ VAPT Methodology
 
-```
+```text
 Planning
-        │
-        ▼
+    │
+    ▼
 Information Gathering
-        │
-        ▼
+    │
+    ▼
 Reconnaissance
-        │
-        ▼
+    │
+    ▼
 Vulnerability Assessment
-        │
-        ▼
+    │
+    ▼
 Penetration Testing
-        │
-        ▼
+    │
+    ▼
 Risk Analysis
-        │
-        ▼
+    │
+    ▼
 Mitigation Recommendations
-        │
-        ▼
+    │
+    ▼
 Final Report
 ```
 
@@ -58,11 +57,12 @@ Final Report
 
 1. Information Gathering
 2. Scope Identification
-3. Vulnerability Detection
-4. Exploitation (Authorized)
-5. Risk Analysis
-6. Security Recommendations
-7. Documentation
+3. Reconnaissance
+4. Vulnerability Detection
+5. Penetration Testing
+6. Risk Analysis
+7. Mitigation Recommendations
+8. Documentation & Reporting
 
 ---
 
@@ -72,7 +72,7 @@ Final Report
 |-------|---------|
 | Nmap | Network Discovery & Port Scanning |
 | Burp Suite | Web Application Security Testing |
-| SQLMap | SQL Injection Testing |
+| SQLMap | SQL Injection Detection & Exploitation |
 | PwnXSS | Cross-Site Scripting Detection |
 | Kali Linux | Penetration Testing Platform |
 | Windows | Testing Environment |
@@ -82,12 +82,12 @@ Final Report
 
 # 📊 Vulnerability Summary
 
-| Vulnerability | Severity | Tool |
-|--------------|----------|------|
+| Vulnerability | Severity | Tool Used |
+|---------------|----------|-----------|
 | SQL Injection | 🔴 Critical | SQLMap |
 | Cross Site Scripting (XSS) | 🟠 High | PwnXSS |
 | OTP Bypass | 🟠 High | Burp Suite |
-| Email Bypass | 🟠 High | Burp Suite |
+| Email Verification Bypass | 🟠 High | Burp Suite |
 | Clear Text Password Submission | 🟠 High | Burp Suite |
 | No Rate Password Limit | 🟠 High | Burp Suite |
 | Directory Traversal | 🟡 Medium | Manual Testing |
@@ -117,50 +117,51 @@ Final Report
 - Web Application Security Testing
 - Vulnerability Assessment
 - Penetration Testing
-- Reconnaissance
 - Information Gathering
+- Reconnaissance
+- Risk Assessment
+- Vulnerability Analysis
 - Burp Suite
 - SQLMap
 - Nmap
-- XSS Testing
-- SQL Injection Testing
-- Risk Assessment
+- PwnXSS
+- Security Documentation
 - Security Reporting
-- Vulnerability Analysis
-- Cybersecurity Documentation
+- Cybersecurity Best Practices
 
 ---
 
 # 📸 Project Screenshots
 
-> Screenshots demonstrating the testing process, vulnerability identification, and security analysis will be added here.
+Project screenshots demonstrating the testing process, vulnerability identification, exploitation, and analysis will be added in future updates.
 
 ---
 
 # 🚀 Future Scope
 
 - API Security Testing
-- Cloud Security Assessment
 - Mobile Application Security Testing
+- Cloud Security Assessment
+- OWASP Top 10 (2021) Complete Coverage
 - Automated Vulnerability Scanning
-- OWASP Top 10 (2021) Coverage
 - Continuous Security Assessment
 - CI/CD Security Integration
+- AI-Assisted Vulnerability Detection
 
 ---
 
 # 📄 Project Documents
 
-- 📊 Project Presentation: **Web-Application-VAPT-Presentation.pptx**
-- 📘 Project Report (PDF): *(To be added)*
+- 📊 **Project Presentation:** [Web-Application-VAPT-Presentation.pptx](Web-Application-VAPT-Presentation.pptx)
+- 📘 **Project Report (PDF):** *(Coming Soon)*
 
 ---
 
 # ⚠️ Disclaimer
 
-This project was conducted strictly for educational purposes in an authorized academic environment.
+This project was developed strictly for **educational and academic purposes** in an authorized environment.
 
-The demonstrations are intended to improve cybersecurity awareness and secure coding practices. No unauthorized access or malicious activity was performed.
+All vulnerability demonstrations were conducted responsibly to understand security risks and improve secure development practices. No unauthorized testing or malicious activities were performed.
 
 ---
 
@@ -168,17 +169,21 @@ The demonstrations are intended to improve cybersecurity awareness and secure co
 
 **Jay Soni**
 
-- B.Sc. IT (Cyber Security)
-- M.Sc. IT (Cyber Security)
-- Network Administration
-- Aspiring SOC Analyst | Network Security | Cloud Security
+- 🎓 B.Sc. IT (Cyber Security)
+- 🎓 M.Sc. IT (Cyber Security)
+- 💼 Network Administration
+- 🛡️ Aspiring SOC Analyst
+- 🌐 Network Security Enthusiast
+- ☁️ Cloud Security Learner
 
 ---
 
 # 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
 
 ---
 
-⭐ If you found this project useful, consider giving it a Star.
+## ⭐ Support
+
+If you found this project helpful, consider giving this repository a ⭐ on GitHub.
